@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "Avtomat Kalashnikova",
+    "ano": "1947",
+    "peso": 3.8,
+    "calibre": 7.62
+  },
+  {
+    "nome": "M1911",
+    "ano": "1940",
+    "peso": 1.15,
+    "calibre": 0.45
+  }
+]

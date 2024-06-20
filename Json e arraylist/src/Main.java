@@ -44,7 +44,7 @@ public class Main {
         List<Arma> lista = new ArrayList<>();
 
         try (BufferedReader reader = new BufferedReader(new FileReader("lista.json"))) {
-            
+
             Gson gson = new GsonBuilder().create();
 
 
